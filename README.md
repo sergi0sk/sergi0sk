@@ -1,4 +1,4 @@
-####    Olá eu sou o João Sérgio
+####    Hello I'm João Sérgio
 
   I'm an 18-year-old who doesn't like programming! My career started in 2022 when I joined the Computer Programmer course and since that day, I have wanted to develop websites and learn more about the area
     
