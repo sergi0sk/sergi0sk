@@ -2,12 +2,17 @@
 
   I'm an 18-year-old who doesn't like programming! My career started in 2022 when I joined the Computer Programmer course and since that day, I have wanted to develop websites and learn more about the area
     
-  📫 I live in Portugal
-  💬 I want to learn more about Security Systems and JS
-  😄 Creativity is my last name
-  🔭 My goal is to work with what I love
-  👯 I love to take care of my health after bodybuilding
-  ⚡ One day I'll make love to the juice
+ - 📫 I live in Portugal
+  
+ - 💬 I want to learn more about Security Systems and JS
+  
+ - 😄 Creativity is my last name
+  
+ - 🔭 My goal is to work with what I love
+  
+ - 👯 I love to take care of my health after bodybuilding
+  
+  - ⚡ One day I'll make love to the juice
    
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
